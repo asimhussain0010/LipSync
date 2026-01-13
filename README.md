@@ -34,6 +34,3 @@ Data Usage
     Training: During the training phase, both video and audio data are utilized to train the model to understand the mapping between lip movements and spoken language.
     Testing: For testing, only the video clips are used (muted) to evaluate how well the model can predict the text based on lip movements.
 
-Data Source
-
-    [Provide information about the source of your dataset, whether it's publicly available or created in-house. If it's publicly available, include the link.]
